@@ -26,8 +26,8 @@ All analysis is built with **Excel formulas** (not hard-coded numbers), so the w
 
 > Add your screenshots to a `/screenshots` folder and update the paths below.
 
-| Main Dashboard | Key Insights |
-|---|---|
+| Main Dashboard |
+|---|
 | ![Dashboard](screenshots/dashboard.png) |
 
 ---
