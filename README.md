@@ -28,7 +28,7 @@ All analysis is built with **Excel formulas** (not hard-coded numbers), so the w
 
 | Main Dashboard | Key Insights |
 |---|---|
-| ![Dashboard](screenshots/dashboard.png) | ![Insights](screenshots/key_insights.png) |
+| ![Dashboard](screenshots/dashboard.png) |
 
 ---
 
